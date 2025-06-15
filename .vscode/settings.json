@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "optional": "cpp",
+        "filesystem": "cpp",
+        "chrono": "cpp",
+        "new": "cpp",
+        "fstream": "cpp",
+        "unordered_map": "cpp"
+    },
+    "makefile.configureOnOpen": false
+}

@@ -1,0 +1,15 @@
+---
+BasedOnStyle:   LLVM
+AccessModifierOffset:   -4
+ColumnLimit:    150
+IndentWidth:    4
+PointerAlignment:   Left
+SortIncludes:   true
+AlignConsecutiveAssignments:
+  Enabled: true
+  AcrossEmptyLines: true
+  AcrossComments: false
+AlignConsecutiveBitFields:
+  Enabled: true
+  AcrossEmptyLines: true
+  AcrossComments: false
